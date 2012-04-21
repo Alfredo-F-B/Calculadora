@@ -1,0 +1,13 @@
+﻿@model Calculando.Models.Div
+
+@{
+    ViewBag.Title = "Dividir";
+}
+
+@using (Html.BeginForm())
+{ 
+    <h1>Introduzca el primer número</h1>  @Html.TextBoxFor(a => a.num1);<br/>
+    <h1>Introduzca el segundo número</h1>  @Html.TextBoxFor(a => a.num2);<p>Este número no puede ser 0</p><br/>
+    <p><input type="submit" value="Dividir"/></p>
+}
+    <p>El resultado es:</p>@ViewBag.r

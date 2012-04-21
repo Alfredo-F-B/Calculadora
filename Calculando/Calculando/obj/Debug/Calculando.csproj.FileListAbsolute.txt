@@ -1,0 +1,7 @@
+c:\users\alfredo ferreira b\documents\visual studio 2010\Projects\Calculando\Calculando\bin\Calculando.dll
+c:\users\alfredo ferreira b\documents\visual studio 2010\Projects\Calculando\Calculando\bin\Calculando.pdb
+c:\users\alfredo ferreira b\documents\visual studio 2010\Projects\Calculando\Calculando\bin\EntityFramework.dll
+c:\users\alfredo ferreira b\documents\visual studio 2010\Projects\Calculando\Calculando\bin\EntityFramework.xml
+c:\users\alfredo ferreira b\documents\visual studio 2010\Projects\Calculando\Calculando\obj\Debug\ResolveAssemblyReference.cache
+c:\users\alfredo ferreira b\documents\visual studio 2010\Projects\Calculando\Calculando\obj\Debug\Calculando.dll
+c:\users\alfredo ferreira b\documents\visual studio 2010\Projects\Calculando\Calculando\obj\Debug\Calculando.pdb

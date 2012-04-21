@@ -1,0 +1,12 @@
+﻿@model Calculando.Models.Calcular
+
+@{
+    ViewBag.Title = "Restar";
+}
+@using (Html.BeginForm())
+{ 
+    <h1>Introduzca el primer número</h1>  @Html.TextBoxFor(a => a.num1);<br/>
+    <h1>Introduzca el segundo número</h1>  @Html.TextBoxFor(a => a.num2);<br/>
+    <p><input type="submit" value="Restar"/></p>
+}
+<p>El resultado es:</p>@ViewBag.r
